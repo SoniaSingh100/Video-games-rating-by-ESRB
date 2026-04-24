@@ -26,6 +26,7 @@ Pandas
 NumPy
 Matplotlib / Seaborn
 Scikit-learn
+
 📂 Project Structure
 📁 Video-Game-Rating-ESRB
 │── 📄 README.md
@@ -65,20 +66,20 @@ The model performs consistently well across all rating categories.
 🎮 Integration with real-time game data APIs
 📷 Sample Visualizations
 
-(Add graphs/screenshots here for better impact)
-
 📎 How to Run
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/SoniaSingh100/Video-games-rating-by-ESRB/README.md.git
 
 # Navigate to project folder
-cd YOUR_REPO_NAME
+cd Video-games-rating-by-ESRB
+
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run notebook or script
-🧾 Resume Description
+
+🧾 Description
 
 Conducted EDA on 1,900+ ESRB-rated video games using Python to uncover trends in rating distribution and demographic patterns. Built a reliable content classification model achieving 86.54% accuracy, with strong precision and recall across rating categories (E, E10+, T, M).
 
